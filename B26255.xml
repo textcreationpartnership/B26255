@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love and gallantry: or, A noble seaman's last adieu to his mistris at the time of his being unfortunately drowned in the last engagement with the Dutch. With her passionate answer thereunto. To the tune of, Farewel my Calista.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26255</idno><idno type="EEBO-CITATION">99827917</idno>
+  <idno type="VID">198080</idno>
+  <idno type="EEBO-PROQUEST">2240885701</idno>
+  
+            <idno type="STC">Wing L3196</idno>
+            <idno type="PROQUEST">99827917</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827917e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:236a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love and gallantry: or, A noble seaman's last adieu to his mistris at the time of his being unfortunately drowned in the last engagement with the Dutch. With her passionate answer thereunto. To the tune of, Farewel my Calista.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Phillip Brooksby, in West-Smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1674?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Farewel my Cla[illegible] my life and my soul,".</note>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:198080:1"/>
+            <head>Love and Gallantry: OR, A Noble Seaman's last adieu to his Mistris, at the time of his being unfortunately drowned in the Last Engagement with the Dutch. With her passionate answer thereunto. </head>
+            <opener>To the Tune of, Farewel my Calista.</opener>
+            <p>
+               <figure>
+                  <figDesc>body of a man lying on an elaborate bier</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>blazon bearing a lion and a ship</figDesc>
+               </figure>
+            </p>
+            <div type="part">
+               <lg>
+                  <l>FArewel my <hi>Clar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nda</hi> my life and my soul,</l>
+                  <l>I am plung'd in the sea &amp; on surges must rowl</l>
+                  <l>Severe is my Fate, yet the waves do not blame,</l>
+                  <l>Though they drown me they cannot extinguish my</l>
+                  <l>Through secret paths, to blest regions above, slame</l>
+                  <l>I wander, yet still must remember my Love:</l>
+                  <l>When the charming Beauties of Angels I see,</l>
+                  <l>How can I my dearest but think upon thee?</l>
+               </lg>
+               <lg>
+                  <l>Sometimes from those mansions I hope to descend</l>
+                  <l>To whisper my Love in the ears of my friend;</l>
+                  <l>To Court her pure soul on that delicate Theam,</l>
+                  <l>In the welcome delighte of an amorous Dream,</l>
+                  <l>To far the cool air on her face as she lies,</l>
+                  <l>And acknowledge my self still a slave to her eyes:</l>
+                  <l>Too gross is the Love and too drossie the fire,</l>
+                  <l>That banquishe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> soon as the breath doth expire,</l>
+               </lg>
+               <lg>
+                  <l>The deeds I have done I leade upon score,</l>
+                  <l>And am heartily sorry I made them no more;</l>
+                  <l>For th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> best of all Princes I fought in whose cause</l>
+                  <l>Even Coward would dye for to merit applause:</l>
+                  <l>May good success equal the rig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t of his Arms,</l>
+                  <l>And providence ever protect him from harms.</l>
+                  <l>some generous thoughts in ons soul it most bring</l>
+                  <l>To love such a Mistiss, and serve such a King</l>
+               </lg>
+               <lg>
+                  <l>Whilst thundering Cannons rung out my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad knel</l>
+                  <l>I kept time with Broad-sides their fury to quell:</l>
+                  <l>I fear'd not the Bullets and thought no surprize,</l>
+                  <l>Could equal those darts y<seg rend="sup">t</seg> were sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t from th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne eys</l>
+                  <l>Alas what more Terrour in death could there be,</l>
+                  <l>When before I was kill'd by my absence from thée:</l>
+                  <l>Thus resolv'd I lay down on a wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry Pillow,</l>
+                  <l>And wae rockt to eternal sléep with a Billow.</l>
+               </lg>
+               <pb facs="tcp:198080:1"/>
+               <p>
+                  <figure>
+                     <figDesc>a ship</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>portrait of a woman with markings on her face</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>TIs far nobler methinks thus bravely to dye,</l>
+                  <l>Couragiously fighting a bold Enemy:</l>
+                  <l>Than that our lifes Taper should dully blaze out,</l>
+                  <l>By Feaver, Consumption, Scurvy, or Gout:</l>
+                  <l>I hate all delays, and do welcome that death,</l>
+                  <l>That comes on a sudden and puffs out ones breath:</l>
+                  <l>Yet to sweeten my fall kind fate did decree,</l>
+                  <l>I should not be wounded by any but thee.</l>
+               </lg>
+               <lg>
+                  <l>If the Waves to the shoar my dead body shall bear,</l>
+                  <l>And thy fair Eyes come to Embalm't with a tear,</l>
+                  <l>If with some kind wishes the Corps thou shalt view</l>
+                  <l>And acknowledge my love and my services true:</l>
+                  <l>I then shall rejoyce not repine at my fate,</l>
+                  <l>And Princes may envy my happier state.</l>
+                  <l>For who would not dye if sure he could be,</l>
+                  <l>But after his death to be loved by thee</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Her Answer.</head>
+               <lg>
+                  <l>CAll not your <hi>Clarinda,</hi> your life and your soul,</l>
+                  <l>she dyes &amp; turns statue to hear where you rowl</l>
+                  <l>To bid her farewel, alas 'tis but vain,</l>
+                  <l>And remembring <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>our love, but encreases her pain:</l>
+                  <l>Fate cannot decree to commit such a wrong,</l>
+                  <l>Vnless it intend too to take me along,</l>
+                  <l>Our death as our life, such a simpathy bears,</l>
+                  <l>You are drown'd in the Ocean, &amp; I in my tears.</l>
+               </lg>
+               <lg>
+                  <l>In vain for thy safety, with vows, &amp; with prayers,</l>
+                  <l>Have I interceeded and brib d heavens ears,</l>
+                  <l>Sure Destiny takes a delight to oppresse,</l>
+                  <l>The b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave, and denyeth the worthy successe,</l>
+                  <l>Yet shall not the envy of Fate undermine,</l>
+                  <l>The Glory attends me in hading been thine:</l>
+                  <l>I never fear'd death should extinguish thy Love,</l>
+                  <l>for I know by my own y<seg rend="sup">t</seg> it endless would prove.</l>
+               </lg>
+               <lg>
+                  <l>The deeds thou hast done are recorded by Fame,</l>
+                  <l>Which so loudly does eccho thy glorious name,</l>
+                  <l>that y<seg rend="sup">e</seg> wondring world this fam'd truth shal aprove</l>
+                  <l>Thy Valour was equal'd by nought but thy Love:</l>
+                  <l>our merchants by thée were relievd from their fears</l>
+                  <l>The Pyrates did tremble, thou humbledst <hi>Algei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi>
+                  </l>
+                  <l>where poor Christian slaves shall thy memory bless</l>
+                  <l>Releas'd by thy conduct and fréed from distress.</l>
+               </lg>
+               <lg>
+                  <l>In all the fierce warrs with y<seg rend="sup">e</seg>
+                     <hi>Dutch</hi> we must own</l>
+                  <l>Thy courage as great and as gallantly shown,</l>
+                  <l>Full well to their cost when the enemy knew,</l>
+                  <l>and have cause to remember the blows of the Blew</l>
+                  <l>In brief thy exploits are so many and great,</l>
+                  <l>Thou only couldst dye, for to make them compleat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Oh dye! how twould grieve me, y<seg rend="sup">e</seg> did I not know</l>
+                  <l>This comfort from fate, that my self can dye too.</l>
+               </lg>
+               <lg>
+                  <l>Farewel loathsome life, for I only will stay,</l>
+                  <l>Once more to embrace these dear reliques of clay:</l>
+                  <l>To seal his cold lips with a languishing kiss,</l>
+                  <l>And tell him I come to be his partner in Bliss,</l>
+                  <l>Then decently laid in his Grave from my eyes,</l>
+                  <l>A deluge of water shall presently rise:</l>
+                  <l>Whose high swelling Billows to Heaven being Hurlf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>Shall wast my soul over into a new world.</l>
+               </lg>
+               <lg>
+                  <l>Then meeting above in the seats of the blest,</l>
+                  <l>Where lovers in peace may eternally rest,</l>
+                  <l>where wars are quite banisht, &amp; where thay néed fear</l>
+                  <l>No wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>spering tongue, nor evesdropping Car,</l>
+                  <l>Where pleasures are grac'd with a permanent joy,</l>
+                  <l>And waters can't drown, nor can bullets destroy,</l>
+                  <l>There sinkt in <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thers kind arms will we sit,</l>
+                  <l>whi st our fanci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s each moment new blisses beget</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Phillip <gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>x<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>by in West-smith-fiel<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
